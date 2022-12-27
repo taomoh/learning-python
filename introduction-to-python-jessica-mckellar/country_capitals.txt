@@ -1,0 +1,4 @@
+What is the capital of Morocco?,Rabat
+What is the capital of Scotland?,Edinburgh
+What is the capital of France?,Paris
+What is the capital of Qatar?,Doha
